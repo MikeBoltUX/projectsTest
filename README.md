@@ -1,2 +1,2 @@
 # projectsTest
-Just a quick exercise to practice GutHub workflow
+Just a quick exercise to practice GitHub workflow
